@@ -3,8 +3,8 @@
 ## Front-end/GameDev student.
 
 - :brazil:  I'm a Brazilian software developer student.
-- Currently learning React  <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - :computer: Looking forward into my first professional experience.
+- - Currently learning React  <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
 ### Languages:
@@ -13,7 +13,7 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br>
+
 <br>
 
 This readme was created with the help of [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr) README video.
