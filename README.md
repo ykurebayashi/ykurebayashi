@@ -3,7 +3,7 @@
 ## Front-end/GameDev student.
 
 - :brazil:  I'm a Brazilian software developer student.
-- Currently learning React  <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- Currently learning React  <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - :computer: Looking forward into my first professional experience.
 
 
