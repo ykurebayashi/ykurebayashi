@@ -1,23 +1,25 @@
-### Hi, I'm Yngwie
+### Hi, I'm Yngwie :computer:
+<hr>
 
-## Front-end/GameDev student.
+I'm a Front-end/Game Developer.
 
-- :brazil:  I'm a Brazilian software development student.
-- :computer: Looking forward into my first professional experience.
-- Currently learning React  <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br/><br/>
+- :brazil:  I'm a Brazilian software developer.
+- :briefcase: Currently working at Pipefy.
+- :books: ReactJs & Typescript.
 
 
-## Languages:
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br/><br/>
-<br/><br/>
+[![ykurebayashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykurebayashi&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ykurebayashi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ykurebayashi&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### This readme was created with the help of [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr) README video.
+<hr>
+
+<h3>This readme was created with the help of:</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr">codeSTACKr</a> README video.</li>
+  <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> github readme status repo.</li>
+  <li><a href="https://knowme.unick.how/">Nick Lin</a> "Know Me" website.</li>
+</ul>
+
 
 <!---
 ykurebayashi/ykurebayashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
