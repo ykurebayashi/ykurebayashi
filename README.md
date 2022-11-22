@@ -5,7 +5,7 @@ I'm a Front-end/Game Developer.
 
 - :brazil:  I'm a Brazilian software developer.
 - :briefcase: Currently working at Pipefy.
-- :books: ReactJs & Typescript.
+- :books: ReactJs & Typescript but also WordPress/PHP developer.
 
 
 [![ykurebayashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykurebayashi&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
