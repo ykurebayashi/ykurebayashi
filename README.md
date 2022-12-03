@@ -1,7 +1,7 @@
 ### Hi, I'm Yngwie :computer:
 <hr>
 
-I'm a Front-end/Game Developer.
+I'm a Front-end.
 
 - :brazil:  I'm a Brazilian software developer.
 - :briefcase: Currently working at Pipefy.
