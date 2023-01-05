@@ -3,7 +3,6 @@
 
 I'm a Front-end Developer.
 
-- :brazil:  I'm a Brazilian software developer.
 - :briefcase: Currently working at Pipefy.
 - :books: ReactJs & Typescript but also WordPress/PHP developer.
 
