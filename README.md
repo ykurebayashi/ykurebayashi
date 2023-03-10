@@ -1,5 +1,5 @@
 ### Hi There
-I'm a front-end developer from Brazil with 2 years of development experience. My current stack is React/Next with TypeScript, but I'm also well-versed in JavaScript, HTML, CSS, Styled-Components and GraphQL.
+I'm a front-end developer from Brazil with 2 years of development experience. My current stack is React/Next with TypeScript, but I'm also well-versed in JavaScript, HTML, CSS, Styled-Components, PHP and Wordpress.
 
 In my last job, I worked with design systems creating reusable components, being responsible for building these in both React and WordPress environments. In my spare time, I enjoy developing games using Unity3D and C#. 
 
