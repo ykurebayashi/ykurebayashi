@@ -26,7 +26,6 @@ Feel free to check out my GitHub profile to see some of my work. Don't hesitate 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-[![ykurebayashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykurebayashi&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![ykurebayashi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ykurebayashi&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
