@@ -1,5 +1,5 @@
 ### Hi There
-I'm Yngwie Kurebayashi, a front-end developer from Brazil with over 3 years of development experience. My current stack is React/Next with TypeScript, but I'm also well-versed in JavaScript, HTML, CSS, Styled-Components, PHP and Wordpress.
+I'm Yngwie Kurebayashi, a front-end developer from Brazil with over 4 years of development experience. My current stack is React/Next with TypeScript, but I'm also well-versed in JavaScript, HTML, CSS, Styled-Components, PHP and Wordpress.
 
 Currently positioned as a Mid-Level Software Developer at Wikimee, I play a pivotal role in spearheading the conception and seamless implementation of new features for the company's SaaS platform. In parallel, I am actively engaged in the creation of reusable React components using TypeScript and Styled-Components, contributing significantly to the development of the company's design system.
 
