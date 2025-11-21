@@ -1,9 +1,9 @@
 ### Hi There
 I'm Yngwie Kurebayashi, a front-end developer from Brazil with over 4 years of development experience. My current stack is React/Next with TypeScript, but I'm also well-versed in JavaScript, HTML, CSS, Styled-Components, PHP and Wordpress.
 
-Currently positioned as a Mid-Level Software Developer at Wikimee, I play a pivotal role in spearheading the conception and seamless implementation of new features for the company's SaaS platform. In parallel, I am actively engaged in the creation of reusable React components using TypeScript and Styled-Components, contributing significantly to the development of the company's design system.
+Currently positioned as a Frontend Software Developer at Wikimee, I play a pivotal role in spearheading the conception and seamless implementation of new features for the company's SaaS platform. In parallel, I am actively engaged in the creation of reusable React components using TypeScript and Styled-Components, contributing significantly to the development of the company's design system.
 
-In my last job, I worked with design systems creating reusable components, being responsible for building these in both React and WordPress environments. In my spare time, I enjoy developing games using Unity3D and C#. 
+In my last job, at Queen Mary University of London, I led the development and UI evolution of the university’s main website, microsites, and digital applications. I worked closely with stakeholders across departments to deliver features aligned with strategic goals such as student recruitment, marketing initiatives, and research visibility. I was also responsible for overseeing the university’s content management system and ensuring the delivery of accessible, high-quality and user-centered digital experiences. Additionally, I coordinated and supported other Web Developers on the team, helping them maintain development standards, unblock tasks, and keep projects moving forward. 
 
 I'm passionate about technology and game development and I'm always looking for opportunities to learn and grow.
 
